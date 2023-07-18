@@ -1,0 +1,11 @@
+Model Information:
+* title:	deadpool_low
+* source:	https://sketchfab.com/3d-models/deadpool-low-8ded87c19e8c491ca58fe6a956926ab9
+* author:	fuzzelhjb (https://sketchfab.com/fuzzelhjb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "deadpool_low" (https://sketchfab.com/3d-models/deadpool-low-8ded87c19e8c491ca58fe6a956926ab9) by fuzzelhjb (https://sketchfab.com/fuzzelhjb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
